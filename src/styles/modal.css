@@ -1,0 +1,25 @@
+.modal {
+  display: none;
+  position: fixed;
+  padding-top: 4rem;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.isimodal {
+  background-color: #e4e4e4;
+  color: black;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  padding: 50px;
+  border: 1px solid #888;
+  border-radius: 10px;
+}
+
+.tutup {
+  float: right;
+  font-size: 2rem;
+}

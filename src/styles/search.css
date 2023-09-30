@@ -1,0 +1,45 @@
+.fungsiSearch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.listHasil {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.formSearch{
+  text-align: center;
+}
+
+.cardHasil {
+  border: 2px solid white;
+  border-radius: 10px;
+  width: 26rem;
+  height: 35.3rem; 
+}
+
+.cardHasil img {
+  width: 26rem;
+  height: 25rem;
+  border-radius: 7px;
+}
+
+.cardHasil h2 {
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+}
+.cardHasil p {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.cardHasil button {
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+}

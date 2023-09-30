@@ -1,0 +1,16 @@
+top-bar {
+  padding: 18px;
+  background-color: #000000;
+  background-image: url("https://cdn.diffords.com/contrib/encyclopedia/2018/12/5c0fc80d51089.jpg");
+  background-blend-mode: multiply;
+  color: white;
+  text-align: center;
+  display: block;
+  transition: 0.1s;
+}
+
+top-bar:hover {
+  text-shadow: 0 0 10px #6b6b6b;
+  background-color: #ffffff;
+  color: #272829;
+}
